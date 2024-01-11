@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yousuf-agha-raenai&label=Profile%20views&color=0e75b6&style=flat" alt="yousuf-agha-raenai" /> </p>
 
-- 🔭 I’m currently working on **visa-bot**
+- 🔭 I’m currently working on **building vector databases and chatbots to communicate with them**
 
 - 🌱 I’m currently learning **streamlit and qdrant**
 
