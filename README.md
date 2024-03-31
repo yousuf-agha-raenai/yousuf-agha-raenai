@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **yousuf@raen.ai**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/yousuf-agha/](https://www.linkedin.com/in/yousuf-agha/)
+- 📄 Know about my experiences [linkedin - /](https://www.linkedin.com/in/yousuf-agha/) (https://scholar.google.com.au/citations?user=RZ_ToiwAAAAJ&hl=en&oi=ao)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
